@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# sets up the web servers for the deployment of web_static program.
+# sets up the web servers for the deployment of web_static files.
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
